@@ -1,4 +1,4 @@
-name: file_upload
+name: Website
 
 on:
   push:
